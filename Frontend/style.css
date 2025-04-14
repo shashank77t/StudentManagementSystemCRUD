@@ -1,0 +1,15 @@
+.group1{
+   
+    display: flex;
+    gap:10px;
+
+}
+.group1 button{
+    width: 200px;
+    height: 50px;
+}
+*{
+    margin-top: 20px;
+}
+
+  
